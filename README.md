@@ -4,7 +4,8 @@ Hi 👋 My name is Yasin Sefa Kırman
 Junior Back-End Developer
 -------------------------
 
-I have been coding more than a year. Working on projects using PHP with Laravel framework to accomplish projects in good quality. I am really passionate about learning new technologies to broaden my horizon and make real-life projects using them to make people lives easier with using creativity.
+I have been coding for almost two years and have experience working on projects using PHP with Laravel framework to ensure high-quality projects. Currently, I am working with NodeJS and I have gained a better understanding of designing and implementing RESTful APIs. I am passionate about learning new technologies and applying my creativity to make real-life projects that make people's lives easier.
+
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [yasekirman@gmail.com](mailto:yasekirman@gmail.com)
